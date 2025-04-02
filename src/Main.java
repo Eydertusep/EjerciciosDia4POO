@@ -12,5 +12,11 @@ public class Main {
         nubank.deposit(3000);
         nubank.withdraw(5784);
 
+        Employe solutionsSas = new Employe("Roberto", "Teacher english", 120);
+
+        solutionsSas.work();
+
+
+
     }
 }
